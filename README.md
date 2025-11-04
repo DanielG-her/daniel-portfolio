@@ -1,16 +1,40 @@
-# React + Vite
+# Daniel's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website — a showcase of my projects, skills, and experience as a **Software Developer** at **Nyat Consultancy**.
 
-Currently, two official plugins are available:
+### 🌍 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Coming soon — will be added after deployment.
 
-## React Compiler
+### 💻 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** (Frontend)
+- **Tailwind CSS** (Styling)
+- **Vite** (Build tool)
+- **Git & GitHub** (Version control)
 
-## Expanding the ESLint configuration
+### 🚀 Projects Highlight
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Nyat Ride Admin Management** – Dashboard for managing rides, users, and system data.
+- **Tigrigna Speech-to-Text** – Deep learning project focused on accessibility and transcription.
+- **Sheqlee Frontend Contributions** – UI/UX improvements built during my internship at Metnee Systems.
+
+### 🎥 Demo
+
+[Watch Sheqlee Project Demo](https://drive.google.com/file/d/1EVR6H523HsC8xdY4tc874xnXkx4KRPnl/view?usp=drivesdk)
+
+### 📬 Contact
+
+- 📧 Email: [danironside3@gmail.com](mailto:danironside3@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/daniel-gher-617880358](https://www.linkedin.com/in/daniel-gher-617880358)
+- 💻 Portfolio: Coming soon
+- 🧠 “Always learning, always building.”
+
+---
+
+### 📂 About this Repo
+
+This repository contains the source code for my portfolio website.  
+It’s built with a focus on clean design, responsive UI, and maintainable React components.
+
+---
